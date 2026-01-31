@@ -19,6 +19,6 @@ The dataset contains Twitter data related to:
 - Prabowo Subianto
 
 ## Repository Structure
-- /data : Raw datasets (CSV files)
-- /notebooks : Jupyter notebooks for preprocessing, analysis, and modeling
-- /poster : Infographic poster summarizing project results
+- /Dataset : Raw datasets (CSV files)
+- /Notebook : Jupyter notebooks for preprocessing, analysis, and modeling
+- /Poster : Infographic poster summarizing project results
